@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fashion-clothing/static/css/main.0bfef54b.chunk.css",
+    "main.js": "/fashion-clothing/static/js/main.06e83943.chunk.js",
+    "main.js.map": "/fashion-clothing/static/js/main.06e83943.chunk.js.map",
+    "runtime~main.js": "/fashion-clothing/static/js/runtime~main.45cff1d9.js",
+    "runtime~main.js.map": "/fashion-clothing/static/js/runtime~main.45cff1d9.js.map",
+    "static/js/2.d9b928d8.chunk.js": "/fashion-clothing/static/js/2.d9b928d8.chunk.js",
+    "static/js/2.d9b928d8.chunk.js.map": "/fashion-clothing/static/js/2.d9b928d8.chunk.js.map",
+    "index.html": "/fashion-clothing/index.html",
+    "precache-manifest.c1599e30223ce9bd3df4c2b4f4af3b5e.js": "/fashion-clothing/precache-manifest.c1599e30223ce9bd3df4c2b4f4af3b5e.js",
+    "service-worker.js": "/fashion-clothing/service-worker.js",
+    "static/css/main.0bfef54b.chunk.css.map": "/fashion-clothing/static/css/main.0bfef54b.chunk.css.map"
+  }
+}
