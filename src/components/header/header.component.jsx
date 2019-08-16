@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 
@@ -7,7 +7,6 @@ import './header.styles.scss';
 
 const Header = () => (
   <div className='header'>
-    <BrowserRouter>
     <Link className='logo-container' to='/'>
       <Logo className='logo' />
     </Link>
@@ -22,7 +21,6 @@ const Header = () => (
         SIGNIN
       </Link>
     </div>
-    </BrowserRouter>
   </div>
 );
 
