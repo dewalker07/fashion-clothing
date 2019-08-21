@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/fashion-clothing/static/css/main.ba9d13c9.chunk.css",
-    "main.js": "/fashion-clothing/static/js/main.5194e9ad.chunk.js",
-    "main.js.map": "/fashion-clothing/static/js/main.5194e9ad.chunk.js.map",
+    "main.css": "/fashion-clothing/static/css/main.e6e1adc5.chunk.css",
+    "main.js": "/fashion-clothing/static/js/main.a331b042.chunk.js",
+    "main.js.map": "/fashion-clothing/static/js/main.a331b042.chunk.js.map",
     "runtime~main.js": "/fashion-clothing/static/js/runtime~main.45cff1d9.js",
     "runtime~main.js.map": "/fashion-clothing/static/js/runtime~main.45cff1d9.js.map",
-    "static/js/2.bc9e9bac.chunk.js": "/fashion-clothing/static/js/2.bc9e9bac.chunk.js",
-    "static/js/2.bc9e9bac.chunk.js.map": "/fashion-clothing/static/js/2.bc9e9bac.chunk.js.map",
+    "static/js/2.7a95f554.chunk.js": "/fashion-clothing/static/js/2.7a95f554.chunk.js",
+    "static/js/2.7a95f554.chunk.js.map": "/fashion-clothing/static/js/2.7a95f554.chunk.js.map",
     "index.html": "/fashion-clothing/index.html",
-    "precache-manifest.048feac86695784a7f334e8af9919891.js": "/fashion-clothing/precache-manifest.048feac86695784a7f334e8af9919891.js",
+    "precache-manifest.db5e62b45e147877fcbd5b90d3ab12be.js": "/fashion-clothing/precache-manifest.db5e62b45e147877fcbd5b90d3ab12be.js",
     "service-worker.js": "/fashion-clothing/service-worker.js",
-    "static/css/main.ba9d13c9.chunk.css.map": "/fashion-clothing/static/css/main.ba9d13c9.chunk.css.map",
-    "static/media/crown.ed28accb.svg": "/fashion-clothing/static/media/crown.ed28accb.svg"
+    "static/css/main.e6e1adc5.chunk.css.map": "/fashion-clothing/static/css/main.e6e1adc5.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/fashion-clothing/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.bffe4871.svg": "/fashion-clothing/static/media/shopping-bag.bffe4871.svg"
   }
 }
